@@ -1,0 +1,5 @@
+jump
+skip \
+run
+push 
+crumps
